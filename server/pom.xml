@@ -10,8 +10,6 @@
     <relativePath>../pom.xml</relativePath>
   </parent>
 
-
-
   <artifactId>server</artifactId>
   <packaging>jar</packaging>
   <name>Server</name>
